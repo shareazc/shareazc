@@ -11,7 +11,8 @@ I believe that it is our responsability as developers to shine a new light on te
 
 I'm currently learning about project management :chart:
 
-You can check out my portfolio :label: [here](https://shareazc.github.io/#/ "here").
+You can check out my portfolio :label: <a href="https://shareazc.github.io/#/" target="_blank">here</a>
+
 
 Some of my hobbies:  
 - :camping: Camping
@@ -29,7 +30,7 @@ A team manager for our personal-development coordinator in Laboratoria. Keep tra
 
 My role here was as the UI researcher and developer.
 
-Check it out [here](https://shareazc.github.io/#/organa "here"). <br /><br /><br /><br />
+Check it out <a href="https://shareazc.github.io/#/organa" target="_blank">here</a>. <br /><br /><br /><br />
 
 
 
@@ -44,7 +45,7 @@ Available for Android only.
 
 This was one of the most difficult, if not the most difficult due to having to go from Javascript to C# and learning how game engines work in less than a week but in the end, it was very rewarding.
 
-You can download the game [here](https://bit.ly/2JKtsbm "here") <br /><br />
+You can download the game <a href="https://bit.ly/2JKtsbm" target="_blank">here</a> <br /><br />
 
 
 ## GXTO
@@ -72,7 +73,7 @@ Developed through NodeJS this was the first project to not have a tangible inter
 
 The usage is pretty straightforward: you enter the name of the file that contains the urls and it will return a list of which ones work and which ones don't. 
 
-Check it out [here](https://github.com/shareazc/GDL002-md-links "here")
+Check it out <a href="https://github.com/shareazc/GDL002-md-links" target="_blank">here</a>
 
 <br />
 
