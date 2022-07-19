@@ -17,7 +17,7 @@ You can check out my portfolio :label: <a href="https://shareazc.github.io/#/" t
 Some of my hobbies:  
 - :camping: Camping
 - :hammer_and_wrench: DIY projects
-- :video_game: Videogames streamer
+- :video_game: Videogames
 
 <br /><br />
 
